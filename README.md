@@ -1,6 +1,6 @@
 # Ejercicio_Congunto
 Ejercicio conjunto
-Parte_1
+# Parte_1
 
 nombre{
     color: blue;
@@ -11,3 +11,4 @@ patas{
     color: red;
     font-size: 22px;
 }
+
