@@ -1,2 +1,12 @@
 # Ejercicio_Conjunto
 Ejercicio conjunto
+
+nombre{
+    color: blue;
+    font-size: 40px;
+}
+
+patas{
+    color: red;
+    font-size: 22px;
+}
