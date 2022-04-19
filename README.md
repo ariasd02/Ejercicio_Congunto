@@ -1,2 +1,2 @@
-# Ejercicio_Congunto
+# Ejercicio_Conjunto
 Ejercicio conjunto
