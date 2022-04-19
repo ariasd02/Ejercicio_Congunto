@@ -1,4 +1,13 @@
 # Ejercicio_Congunto
 Ejercicio conjunto
 Parte_1
-hola
+
+nombre{
+    color: blue;
+    font-size: 40px;
+}
+
+patas{
+    color: red;
+    font-size: 22px;
+}
