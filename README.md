@@ -1,7 +1,6 @@
 # Ejercicio_Conjunto
 Ejercicio conjunto
 
-# Parte_1
 
 
 Parte_2
